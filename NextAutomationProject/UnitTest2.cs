@@ -10,6 +10,7 @@ namespace NextAutomationProject
     [TestClass]
     public class UnitTest1
     {
+        //login test
         private IWebDriver Driver { get; set; }
         //test
         [TestMethod]
