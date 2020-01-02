@@ -11,7 +11,7 @@ namespace NextAutomationProject
     public class UnitTest1
     {
         private IWebDriver Driver { get; set; }
-
+        //test
         [TestMethod]
         [TestCategory("LogInTest")]
         public void TestMethod1()
